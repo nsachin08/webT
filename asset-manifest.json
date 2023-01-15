@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webT/static/css/main.23470700.css",
+    "main.js": "/webT/static/js/main.cef4cf45.js",
+    "index.html": "/webT/index.html",
+    "main.23470700.css.map": "/webT/static/css/main.23470700.css.map",
+    "main.cef4cf45.js.map": "/webT/static/js/main.cef4cf45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23470700.css",
+    "static/js/main.cef4cf45.js"
+  ]
+}
